@@ -1,0 +1,6 @@
+[Global]
+$DBConnection_loan=Microsoft_SQL_Server
+
+[DEV_folder.WF:wf_src_to_stg_capstone]
+$InputFileNames=SBAnational.csv
+
